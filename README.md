@@ -1,6 +1,6 @@
 # Project-Y
 
-> nullcss，Quincy
+> nullcss
 
 ## Build Setup
 
